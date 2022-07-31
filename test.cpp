@@ -13,4 +13,6 @@ int main()
         cout << word << " ";
     }
     cout << endl;
+
+    int i = 0;
 }
